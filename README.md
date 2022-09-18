@@ -99,4 +99,50 @@ then Click Next: Actions >
 
 <img width="656" alt="image" src="https://user-images.githubusercontent.com/46469458/190922229-04cd3937-d5ad-453d-a109-abdeaf6ce306.png">
 
-  Threshold value = 60
+23. At Create an action group, specific your action group name then click Next: Notifications
+
+<img width="951" alt="image" src="https://user-images.githubusercontent.com/46469458/190922331-e910b118-e23f-4b79-92a6-df0184edf6ea.png">
+
+24. At Notifications 
+
+  Notification types = Email/SMS Messege/Push/Voice
+  Email = Check and fill Recipient 
+then click Ok, and create name of notification, Click Next: Actions >
+
+<img width="1380" alt="image" src="https://user-images.githubusercontent.com/46469458/190922490-9e6d71f4-bcdf-4a93-8b5c-093a86cf82b4.png">
+
+25. At Actions tab click Review + create
+
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/46469458/190922693-158a1ca1-0024-40d3-85de-37e2e62faefa.png">
+
+26. Click Create
+
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/46469458/190922759-69d9aa4d-14f4-4a46-9d7d-5a0745197993.png">
+
+27. When back to Create an alert rule click Next Details >
+
+<img width="753" alt="image" src="https://user-images.githubusercontent.com/46469458/190922800-88ba5e27-ab5a-4f89-9caa-e66ea467d742.png">
+
+28. At Details tab select Severity of this alert (default is 3 - Informational) and specific alert rule name then click Review + create
+
+<img width="996" alt="image" src="https://user-images.githubusercontent.com/46469458/190922836-f4548aad-2545-401c-a968-efe3b82b1cf1.png">
+
+29. Review your alert rule and click create
+
+<img width="790" alt="image" src="https://user-images.githubusercontent.com/46469458/190922964-ee2d4e1b-bd0d-4afc-bcc6-8a754cd93ad5.png">
+
+30. Recipient will receive email to confirm 
+
+<img width="966" alt="image" src="https://user-images.githubusercontent.com/46469458/190923048-527c6233-7bc8-4895-ae1b-fa40d09806ba.png">
+
+31. This is alert email
+
+<img width="1140" alt="image" src="https://user-images.githubusercontent.com/46469458/190923235-6d3b29e4-2b16-43d4-a7a9-20111f4cf173.png">
+<img width="1162" alt="image" src="https://user-images.githubusercontent.com/46469458/190923279-9eef58a5-c29c-430a-85f2-369591d634c1.png">
+<img width="1172" alt="image" src="https://user-images.githubusercontent.com/46469458/190923312-9f500c71-b900-474a-8f3c-bd6a191b71aa.png">
+
+32. At Alert page you will see alert dashboard
+
+<img width="1474" alt="image" src="https://user-images.githubusercontent.com/46469458/190923378-ab8ab7f0-d243-4216-a829-a60885fb3691.png">
+
+<img width="966" alt="image" src="https://user-images.githubusercontent.com/46469458/190923048-527c6233-7bc8-4895-ae1b-fa40d09806ba.png">
