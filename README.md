@@ -150,3 +150,7 @@ then click Ok, and create name of notification, Click Next: Actions >
 33. At Alert page you will see alert dashboard
 
 <img width="1474" alt="image" src="https://user-images.githubusercontent.com/46469458/190923378-ab8ab7f0-d243-4216-a829-a60885fb3691.png">
+
+34. Go to Health check and click enable and fill which path you want to check health
+
+<img width="1071" alt="image" src="https://user-images.githubusercontent.com/46469458/190924055-0f1d21c6-86e9-45be-a73d-ef6bef96b0b0.png">
