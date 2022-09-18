@@ -67,7 +67,7 @@
 
 <img width="1048" alt="image" src="https://user-images.githubusercontent.com/46469458/190921144-92cac13f-d17e-450c-849f-bd1b3bde39cb.png">
 
-17. Go to Monitoring --> Metrics. At select metric select Avarage memory working set
+17. Go to Monitoring --> Metrics. At select metric select `Avarage memory working set`
 
 <img width="1362" alt="image" src="https://user-images.githubusercontent.com/46469458/190921400-8eadd576-2241-4d39-806b-c5fb275e6e38.png">
 
@@ -79,4 +79,24 @@
 
 <img width="1109" alt="image" src="https://user-images.githubusercontent.com/46469458/190921831-6453b49d-911e-4f7f-9114-a20269cfbbdf.png">
 
-20. 
+20. When finished you will see 3 charts on Metrics page then go to `Avarage memory working set` to set alert rule
+
+<img width="1051" alt="image" src="https://user-images.githubusercontent.com/46469458/190922031-bfdf74c5-6ec0-458e-899a-739661f40340.png">
+
+21. At Create an alert rule page 
+
+  Operator = Greater than or equal to 
+  
+  Unit = MB
+  
+  Threshold value = 60
+  
+then Click Next: Actions > 
+
+<img width="1472" alt="image" src="https://user-images.githubusercontent.com/46469458/190922124-b8a52d93-956a-48c9-930a-4874e531f2ba.png">
+
+22. At Actions tab select Create action group
+
+<img width="656" alt="image" src="https://user-images.githubusercontent.com/46469458/190922229-04cd3937-d5ad-453d-a109-abdeaf6ce306.png">
+
+  Threshold value = 60
