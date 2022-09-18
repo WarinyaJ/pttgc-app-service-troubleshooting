@@ -67,4 +67,16 @@
 
 <img width="1048" alt="image" src="https://user-images.githubusercontent.com/46469458/190921144-92cac13f-d17e-450c-849f-bd1b3bde39cb.png">
 
-17. 
+17. Go to Monitoring --> Metrics. At select metric select Avarage memory working set
+
+<img width="1362" alt="image" src="https://user-images.githubusercontent.com/46469458/190921400-8eadd576-2241-4d39-806b-c5fb275e6e38.png">
+
+18. Click on + New Chart and add `CPU time`
+
+<img width="1108" alt="image" src="https://user-images.githubusercontent.com/46469458/190921770-18090977-4f9c-45f5-854e-aaacef5cee88.png">
+
+19. Click on + New Chart and add `Htto Server Errors`
+
+<img width="1109" alt="image" src="https://user-images.githubusercontent.com/46469458/190921831-6453b49d-911e-4f7f-9114-a20269cfbbdf.png">
+
+20. 
