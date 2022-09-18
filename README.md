@@ -143,9 +143,9 @@ then click Ok, and create name of notification, Click Next: Actions >
 
 32. This is clear email
 
-<img width="1140" alt="image" src="https://user-images.githubusercontent.com/46469458/190923585-0be028aa-c434-4c2a-a7f9-e35a12146d5c.png">
-<img width="1161" alt="image" src="https://user-images.githubusercontent.com/46469458/190923625-6e596dad-ea0b-4c5d-b8b4-7b48f4a37ff7.png">
-
+![image](https://user-images.githubusercontent.com/46469458/190924204-e523281d-13e7-4082-8cae-494a7025f2da.png)
+<img width="1161" alt="image" src="https://user-images.githubusercontent.com/46469458/190924180-c5132dc9-2820-48ef-9444-3bcdd33dd5bc.png">
+<img width="1160" alt="image" src="https://user-images.githubusercontent.com/46469458/190924235-dde6b65f-81d5-4112-bf9e-b3bc9d9e92ea.png">
 
 33. At Alert page you will see alert dashboard
 
