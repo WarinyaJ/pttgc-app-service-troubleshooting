@@ -47,4 +47,24 @@
 
 <img width="933" alt="image" src="https://user-images.githubusercontent.com/46469458/190920546-31d862e1-6232-4a78-b344-23f9b407d5fc.png">
 
-12. 
+12. Click on `WEBSITES_PORT` and change Value from 8888 to 8000 then click Ok
+
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/46469458/190920764-524f78bd-3b6c-4490-a500-9c3798a3b144.png">
+
+13. Click save
+
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/46469458/190920816-eee421fd-bd2e-46ac-bac4-53ff1cbda2ed.png">
+
+14. When click save you will see confirmation pop up, Click Continue
+
+<img width="837" alt="image" src="https://user-images.githubusercontent.com/46469458/190920864-f0dea9cd-2350-43ce-b35a-3e9bc18b6db1.png">
+
+15. After that wait 2 - 3 minutes for web restart. then try to refresh web page
+
+<img width="1380" alt="image" src="https://user-images.githubusercontent.com/46469458/190921029-7a9ad34d-ebf7-4158-90dd-436212da06b5.png">
+
+16. Back to Log stream you will see log line like this `"GET / HTTP/1.1" 200 7947` that mean your web page is Ok 
+
+<img width="1048" alt="image" src="https://user-images.githubusercontent.com/46469458/190921144-92cac13f-d17e-450c-849f-bd1b3bde39cb.png">
+
+17. 
