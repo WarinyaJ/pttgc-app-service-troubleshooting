@@ -141,8 +141,12 @@ then click Ok, and create name of notification, Click Next: Actions >
 <img width="1162" alt="image" src="https://user-images.githubusercontent.com/46469458/190923279-9eef58a5-c29c-430a-85f2-369591d634c1.png">
 <img width="1172" alt="image" src="https://user-images.githubusercontent.com/46469458/190923312-9f500c71-b900-474a-8f3c-bd6a191b71aa.png">
 
-32. At Alert page you will see alert dashboard
+32. This is clear email
+
+<img width="1140" alt="image" src="https://user-images.githubusercontent.com/46469458/190923585-0be028aa-c434-4c2a-a7f9-e35a12146d5c.png">
+<img width="1161" alt="image" src="https://user-images.githubusercontent.com/46469458/190923625-6e596dad-ea0b-4c5d-b8b4-7b48f4a37ff7.png">
+
+
+33. At Alert page you will see alert dashboard
 
 <img width="1474" alt="image" src="https://user-images.githubusercontent.com/46469458/190923378-ab8ab7f0-d243-4216-a829-a60885fb3691.png">
-
-<img width="966" alt="image" src="https://user-images.githubusercontent.com/46469458/190923048-527c6233-7bc8-4895-ae1b-fa40d09806ba.png">
