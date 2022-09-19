@@ -78,23 +78,25 @@
 
 <img width="1048" alt="image" src="https://user-images.githubusercontent.com/46469458/190921144-92cac13f-d17e-450c-849f-bd1b3bde39cb.png">
 
-17. Go to Monitoring --> Metrics. At select metric select `Avarage memory working set`
+# Metrics
+
+1. Go to Monitoring --> Metrics. At select metric select `Avarage memory working set`
 
 <img width="1362" alt="image" src="https://user-images.githubusercontent.com/46469458/190921400-8eadd576-2241-4d39-806b-c5fb275e6e38.png">
 
-18. Click on + New Chart and add `CPU time`
+2. Click on + New Chart and add `CPU time`
 
 <img width="1108" alt="image" src="https://user-images.githubusercontent.com/46469458/190921770-18090977-4f9c-45f5-854e-aaacef5cee88.png">
 
-19. Click on + New Chart and add `Htto Server Errors`
+3. Click on + New Chart and add `Htto Server Errors`
 
 <img width="1109" alt="image" src="https://user-images.githubusercontent.com/46469458/190921831-6453b49d-911e-4f7f-9114-a20269cfbbdf.png">
 
-20. When finished you will see 3 charts on Metrics page then go to `Avarage memory working set` to set alert rule
+4. When finished you will see 3 charts on Metrics page then go to `Avarage memory working set` to set alert rule
 
 <img width="1051" alt="image" src="https://user-images.githubusercontent.com/46469458/190922031-bfdf74c5-6ec0-458e-899a-739661f40340.png">
 
-21. At Create an alert rule page 
+5. At Create an alert rule page 
 
   Operator = Greater than or equal to 
   
@@ -106,15 +108,15 @@ then Click Next: Actions >
 
 <img width="1472" alt="image" src="https://user-images.githubusercontent.com/46469458/190922124-b8a52d93-956a-48c9-930a-4874e531f2ba.png">
 
-22. At Actions tab select Create action group
+6. At Actions tab select Create action group
 
 <img width="656" alt="image" src="https://user-images.githubusercontent.com/46469458/190922229-04cd3937-d5ad-453d-a109-abdeaf6ce306.png">
 
-23. At Create an action group, specific your action group name then click Next: Notifications
+7. At Create an action group, specific your action group name then click Next: Notifications
 
 <img width="951" alt="image" src="https://user-images.githubusercontent.com/46469458/190922331-e910b118-e23f-4b79-92a6-df0184edf6ea.png">
 
-24. At Notifications 
+8. At Notifications 
 
   Notification types = Email/SMS Messege/Push/Voice
   Email = Check and fill Recipient 
@@ -122,46 +124,46 @@ then click Ok, and create name of notification, Click Next: Actions >
 
 <img width="1380" alt="image" src="https://user-images.githubusercontent.com/46469458/190922490-9e6d71f4-bcdf-4a93-8b5c-093a86cf82b4.png">
 
-25. At Actions tab click Review + create
+9. At Actions tab click Review + create
 
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/46469458/190922693-158a1ca1-0024-40d3-85de-37e2e62faefa.png">
 
-26. Click Create
+10. Click Create
 
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/46469458/190922759-69d9aa4d-14f4-4a46-9d7d-5a0745197993.png">
 
-27. When back to Create an alert rule click Next Details >
+11. When back to Create an alert rule click Next Details >
 
 <img width="753" alt="image" src="https://user-images.githubusercontent.com/46469458/190922800-88ba5e27-ab5a-4f89-9caa-e66ea467d742.png">
 
-28. At Details tab select Severity of this alert (default is 3 - Informational) and specific alert rule name then click Review + create
+12. At Details tab select Severity of this alert (default is 3 - Informational) and specific alert rule name then click Review + create
 
 <img width="996" alt="image" src="https://user-images.githubusercontent.com/46469458/190922836-f4548aad-2545-401c-a968-efe3b82b1cf1.png">
 
-29. Review your alert rule and click create
+13. Review your alert rule and click create
 
 <img width="790" alt="image" src="https://user-images.githubusercontent.com/46469458/190922964-ee2d4e1b-bd0d-4afc-bcc6-8a754cd93ad5.png">
 
-30. Recipient will receive email to confirm 
+14. Recipient will receive email to confirm 
 
 <img width="966" alt="image" src="https://user-images.githubusercontent.com/46469458/190923048-527c6233-7bc8-4895-ae1b-fa40d09806ba.png">
 
-31. This is alert email
+15. This is alert email
 
 <img width="1140" alt="image" src="https://user-images.githubusercontent.com/46469458/190923235-6d3b29e4-2b16-43d4-a7a9-20111f4cf173.png">
 <img width="1162" alt="image" src="https://user-images.githubusercontent.com/46469458/190923279-9eef58a5-c29c-430a-85f2-369591d634c1.png">
 <img width="1172" alt="image" src="https://user-images.githubusercontent.com/46469458/190923312-9f500c71-b900-474a-8f3c-bd6a191b71aa.png">
 
-32. This is clear email
+16. This is clear email
 
 ![image](https://user-images.githubusercontent.com/46469458/190924204-e523281d-13e7-4082-8cae-494a7025f2da.png)
 <img width="1161" alt="image" src="https://user-images.githubusercontent.com/46469458/190924180-c5132dc9-2820-48ef-9444-3bcdd33dd5bc.png">
 <img width="1160" alt="image" src="https://user-images.githubusercontent.com/46469458/190924235-dde6b65f-81d5-4112-bf9e-b3bc9d9e92ea.png">
 
-33. At Alert page you will see alert dashboard
+17. At Alert page you will see alert dashboard
 
 <img width="1474" alt="image" src="https://user-images.githubusercontent.com/46469458/190923378-ab8ab7f0-d243-4216-a829-a60885fb3691.png">
 
-34. Go to Health check and click enable and fill which path you want to check health
+18. Go to Health check and click enable and fill which path you want to check health
 
 <img width="1071" alt="image" src="https://user-images.githubusercontent.com/46469458/190924055-0f1d21c6-86e9-45be-a73d-ef6bef96b0b0.png">
