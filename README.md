@@ -6,7 +6,6 @@
 2. AppServiceConsoleLogs - Console logs generated from application or container.
 3. AppServiceHTTPLogs - Incoming HTTP requests on App Service. Use these logs to monitor application health, performance and usage patterns.
 4. AppServicePlatformLogs - Logs generated through AppService platform for your application.
-5. AzureMetrics - Metric data emitted by Azure services that measure their health and performance.
 
 # Instructions
 
