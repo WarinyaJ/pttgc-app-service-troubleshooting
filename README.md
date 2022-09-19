@@ -1,4 +1,15 @@
 # App-Service-troubleshooting
+
+Log categories
+
+1. AppServiceAuditLogs - Logs generated when publishing users successfully log on via one of the App Service publishing protocols. 
+2. AppServiceConsoleLogs - Console logs generated from application or container.
+3. AppServiceHTTPLogs - Incoming HTTP requests on App Service. Use these logs to monitor application health, performance and usage patterns.
+4. AppServicePlatformLogs - Logs generated through AppService platform for your application.
+5. AzureMetrics - Metric data emitted by Azure services that measure their health and performance.
+
+Instructions
+
 1. Go to [Azure_Portal](https://azure.microsoft.com/en-us/get-started/azure-portal/) then search `app service` and select `app service`
 
 <img width="964" alt="image" src="https://user-images.githubusercontent.com/46469458/190918854-eab6613c-8d30-4121-95d9-dabe4822564e.png">
