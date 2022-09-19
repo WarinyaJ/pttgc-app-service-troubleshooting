@@ -2,10 +2,9 @@
 
 # Log categories
 
-1. AppServiceAuditLogs - Logs generated when publishing users successfully log on via one of the App Service publishing protocols. 
-2. AppServiceConsoleLogs - Console logs generated from application or container.
-3. AppServiceHTTPLogs - Incoming HTTP requests on App Service. Use these logs to monitor application health, performance and usage patterns.
-4. AppServicePlatformLogs - Logs generated through AppService platform for your application.
+1. AppServiceConsoleLogs - Console logs generated from application or container.
+2. AppServiceHTTPLogs - Incoming HTTP requests on App Service. Use these logs to monitor application health, performance and usage patterns.
+3. AppServicePlatformLogs - Logs generated through AppService platform for your application.
 
 # Instructions
 
